@@ -1,0 +1,22 @@
+{
+  "name": "jest-oop-practice",
+  "version": "1.0.0",
+  "description": "basica rpg game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatorhatur/jest-oop-practice.git"
+  },
+  "author": "Brandon Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gatorhatur/jest-oop-practice/issues"
+  },
+  "homepage": "https://github.com/gatorhatur/jest-oop-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
